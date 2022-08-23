@@ -1,0 +1,78 @@
+---
+title: "STAT 565 - Sessions 1 & 2"
+author: "Jon Isaacson"
+date: "8/22/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+This year is different so that the videos are the same for everyone with no in-person component for lectures. There will an optional opportunity to meet to come and ask questions.
+
+# Syllabus
+In-person class might be in 400 Brink (STAT conference room). Could be moved to later.
+
+## Pre-Reqs
+STAT 451 is a must. It's not possibility without having a good working knowledge of probability theory. If the background isn't satisified it will be hard.
+
+STAT 452 is similar. Impotant to have
+
+STAT 330 (linear algebra) is helpful to have but can be learned through application with emphasis on stochastic and computer/simulation based methods.
+
+# Materials
+
+## Texts
+*Monte Carlo Statistical Methods* by Robert and Casella
+*Introducing Monte Carlo Methods with R* by Robert and Casella
+*Computational Statistics* by Gentle
+
+No texts are required, but those listed above are highly recommended.
+
+# Grades
+2 graded components
+
+1. Take Home Assignments (40%)
+  a. 4 assignments each weighted at 10%
+2. Project (60%)
+
+
+# Why Computer Intensive Statistics is Hard
+
+Computer Intensive Methods Academic Journey
+
+Typical Prereqs:
+* Statistical Methods 1
+* Statistical Methods 2
+* Linear Algebra
+* Some Computational Background
+  - Memory management
+  - Data management
+  
+Bread and Butter Background
+* Probability Theory
+* Mathematical Statistics
+
+Theory Heavy Courses
+* Regression
+* Theory of Linear Models
+
+Applied Courses
+* Biostatistics
+* Nonparametrics
+* Time-Series
+* Applied Linear Models
+* Geostatistics
+
+
+
+
+
+
+
+
+
+
+
